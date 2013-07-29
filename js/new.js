@@ -1,3 +1,3 @@
 $('body').click(function(){
-  $('body').hide();
+  $('body').css("opacity","0.5");
 });
